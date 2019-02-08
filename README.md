@@ -1,4 +1,5 @@
 # my-CTFs
+Please contact me for other CTF walkthrough descriptions that I am not allowed to share.
 
 ## CTF writeup 2016.11
 
